@@ -1,5 +1,7 @@
 # Blurple - Visual Studio Code
 
+Blurple is a Visual Studio Code theme. Cool.
+
 ## Theme Colors
 
 |Palette|Pantone  |HSL|HEX    |RGB              |
