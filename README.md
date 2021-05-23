@@ -14,4 +14,8 @@
 
 ## Inspiration
 
-![](https://i.imgur.com/E2rt5VA.png)
+Joined the [KAT Space Dust Group Buy](https://geekhack.org/index.php?topic=107942.0) because I found the color palette to be very nice.
+
+This is the pantone list they were using for the keycap set:
+
+![KAT Space Dust - Pantone List](https://i.imgur.com/E2rt5VA.png)
