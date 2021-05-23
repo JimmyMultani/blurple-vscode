@@ -6,6 +6,7 @@ Blurple is a Visual Studio Code theme. Cool.
 
 |Palette|Pantone  |HSL|HEX    |RGB              |
 |-------|---------|---|-------|-----------------|
+|       |         |???|#5A27EE|rgb(90, 39, 238) |
 |       |232 C    |???|#E93CAC|rgb(233, 60, 172)|
 |       |Purple C |???|#BB29BB|rgb(187, 41, 187)|
 |       |266 C    |???|#753BBD|rgb(117, 59, 189)|
