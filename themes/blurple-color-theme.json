@@ -2,10 +2,10 @@
   "name": "Blurple Theme",
   "type": "dark",
   "colors": {
-    "editor.background": "#263238",
-    "editor.foreground": "#eeffff",
-    "activityBarBadge.background": "#007acc",
-    "sideBarTitle.foreground": "#bbbbbb"
+    "editor.background": "#101820",
+    "editor.foreground": "#f2f2ff",
+    "activityBarBadge.background": "#307FE2",
+    "sideBarTitle.foreground": "#f2f2ff"
   },
   "tokenColors": [
     {
@@ -20,14 +20,14 @@
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
-        "foreground": "#EEFFFF"
+        "foreground": "#f2f2ff"
       }
     },
     {
       "name": "Colors",
       "scope": ["constant.other.color"],
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#f2f2ff"
       }
     },
     {
@@ -390,7 +390,7 @@
         "punctuation.definition.list_item.markdown"
       ],
       "settings": {
-        "foreground": "#EEFFFF"
+        "foreground": "#f2f2ff"
       }
     },
     {
@@ -523,7 +523,7 @@
         "punctuation.section.class.end"
       ],
       "settings": {
-        "foreground": "#EEFFFF"
+        "foreground": "#f2f2ff"
       }
     },
     {
@@ -545,7 +545,7 @@
       "name": "Markup - Table",
       "scope": ["markup.table"],
       "settings": {
-        "foreground": "#EEFFFF"
+        "foreground": "#f2f2ff"
       }
     }
   ]
