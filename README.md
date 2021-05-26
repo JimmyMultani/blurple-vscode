@@ -4,18 +4,18 @@ Blurple is a Visual Studio Code theme. Cool.
 
 ## Theme Colors
 
-| Palette    | Pantone   | HSL | HEX     | RGB               |
-| ---------- | --------- | --- | ------- | ----------------- |
-| Blurple    | ???       | ??? | #5A27EE | rgb(90, 39, 238)  |
-|            | 232 C     | ??? | #E93CAC | rgb(233, 60, 172) |
-|            | Purple C  | ??? | #BB29BB | rgb(187, 41, 187) |
-|            | 266 C     | ??? | #753BBD | rgb(117, 59, 189) |
-|            | 2727 C    | ??? | #307FE2 | rgb(48, 127, 226) |
-|            | 2915 C    | ??? | #62B5E5 | rgb(98, 181, 229) |
-|            | 2765 C    | ??? | #201547 | rgb(32, 21, 71)   |
-| Background | Black 6 C | ??? | #101820 | rgb(16, 24, 32)   |
-|            | 286 C     | ??? | #0032A0 | rgb(0, 50, 160)   |
-| Foreground | ???       | ??? | #f2f2ff | ???               |
+| Palette    | Pantone   | HSL | HEX     | RGB               | Example                                |
+| ---------- | --------- | --- | ------- | ----------------- | -------------------------------------- |
+| Blurple    | ???       | ??? | #5A27EE | rgb(90, 39, 238)  | https://via.placeholder.com/150/5A27EE |
+|            | 232 C     | ??? | #E93CAC | rgb(233, 60, 172) | https://via.placeholder.com/150/E93CAC |
+|            | Purple C  | ??? | #BB29BB | rgb(187, 41, 187) | https://via.placeholder.com/150/BB29BB |
+|            | 266 C     | ??? | #753BBD | rgb(117, 59, 189) | https://via.placeholder.com/150/753BBD |
+|            | 2727 C    | ??? | #307FE2 | rgb(48, 127, 226) | https://via.placeholder.com/150/307FE2 |
+|            | 2915 C    | ??? | #62B5E5 | rgb(98, 181, 229) | https://via.placeholder.com/150/62B5E5 |
+|            | 2765 C    | ??? | #201547 | rgb(32, 21, 71)   | https://via.placeholder.com/150/201547 |
+| Background | Black 6 C | ??? | #101820 | rgb(16, 24, 32)   | https://via.placeholder.com/150/101820 |
+|            | 286 C     | ??? | #0032A0 | rgb(0, 50, 160)   | https://via.placeholder.com/150/0032A0 |
+| Foreground | ???       | ??? | #f2f2ff | ???               | https://via.placeholder.com/150/f2f2ff |
 
 ## This is the README for your extension "blurple-theme"
 
