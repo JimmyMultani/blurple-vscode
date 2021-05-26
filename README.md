@@ -19,6 +19,7 @@ Blurple is a Visual Studio Code theme. Cool.
 | Foreground     | 656 C     | #DDE5ED | rgb(221, 229, 237) | ![](https://via.placeholder.com/32/DDE5ED/DDE5ED) |
 |                | 1355 C    | #FFC56E | rgb(255, 197, 110) | ![](https://via.placeholder.com/32/FFC56E/FFC56E) |
 |                | 365 C     | #C2E189 | rgb(194, 225, 137) | ![](https://via.placeholder.com/32/C2E189/C2E189) |
+|                | 1787 C    | #F4364C | rgb(244, 54, 76)   | ![](https://via.placeholder.com/32/F4364C/F4364C) |
 
 ## This is the README for your extension "blurple-theme"
 
