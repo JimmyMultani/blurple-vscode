@@ -2,6 +2,14 @@
 
 Blurple is a Visual Studio Code theme. Cool.
 
+## TODO
+
+- [ ] Streamline color palette
+- [ ] Map color palette to syntax types
+- [ ] Create theme
+- [ ] Package theme with `vsce`
+- [ ] Create release action in GitHub
+
 ## Theme Colors
 
 | Palette        | Pantone   | HEX     | RGB                | Example                                           |
