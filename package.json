@@ -14,7 +14,7 @@
       {
         "label": "Blurple Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Blurple Theme-color-theme.json"
+        "path": "./themes/blurple-color-theme.json"
       }
     ]
   }
