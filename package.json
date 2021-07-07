@@ -1,0 +1,21 @@
+{
+  "name": "blurple-theme",
+  "displayName": "blurple-theme",
+  "description": "It's Blurple!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.56.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Blurple Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/blurple-color-theme.json"
+      }
+    ]
+  }
+}
